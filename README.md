@@ -1,7 +1,10 @@
 # Crypto Devs NFT Collection
 
-Crypto Devs Contract Address:  0x1Ef9469e9A5378f471aaf20AA572e43F5835AC52
-Crypto Devs Dapp: https://cryptodev-dapp.vercel.app/
+Crypto Devs Contract Address: 
+- 0x1Ef9469e9A5378f471aaf20AA572e43F5835AC52
+
+Crypto Devs Dapp: 
+- https://cryptodev-dapp.vercel.app/
 
 
 ## Frontend Dapp 
